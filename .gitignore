@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+
+# generated outputs and snapshots
+Exports/
+backup/
+9-9-2025-data-backup/
+Archives/
